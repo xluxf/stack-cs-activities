@@ -21,12 +21,12 @@ The Coding Competition activity is  programming lectures. Students are asked to 
 
 ## Setup and preparation
 
-* The teacher share a (printed) document with 8-12 easy programming tasks related with a lecture topic. Solving of each task should not take more than 5 minutes.
+* The teacher share a (printed) [document](problems.pdf) with 8-12 easy programming tasks related with a lecture topic. Solving of each task should not take more than 5 minutes.
 * huge table on a whiteboard, row for each student and column for each task.
  
 ## Activity overview
 
-* Before the start - Teacher describes all competition rules. Students fill their own names (nicknames) into the table on the whiteboard (reduce a shame). 
+* Before the start - Teacher describes all competition rules. Students fill their own names (nicknames) into the table on the whiteboard. 
 * During the competition - Each student solves all tasks individually. If he finish some, he can mark it into the table. Time of the competition is precisly measured, teacher regurally informs how many minutes left. 
 * After the competition - the teacher according the table randomly pick some students to introduce their solution. Student is not examined by a teacher, he talks directly to the class and describe them how he solved the problem. Other students can ask or offer their ideas. One presentation takes at most 1 minute including questions. The winner is rewarded by candy or bonus points.
 
@@ -40,7 +40,8 @@ The Coding Competition activity is  programming lectures. Students are asked to 
 
 ## Related material
 
-* inspired by naboj.org, codeforces.ru and Teaching lab lectures
+* [Codeforces](codeforces.ru)
+* [IB111 problems](https://www.fi.muni.cz/IB111/sbirka/index.html)
 
 ## Author
 
